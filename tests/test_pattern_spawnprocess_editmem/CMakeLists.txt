@@ -1,0 +1,3 @@
+add_executable(test_pattern_spawnprocess_editmem test_pattern_spawnprocess_editmem.c)
+set_target_properties(test_pattern_spawnprocess_editmem PROPERTIES FOLDER "tests")
+target_link_libraries(test_pattern_spawnprocess_editmem PRIVATE kgt)

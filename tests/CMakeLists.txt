@@ -1,0 +1,7 @@
+add_subdirectory(test_app_to_memedit)
+add_subdirectory(test_pattern_parse)
+add_subdirectory(test_pattern_searchinmemory)
+add_subdirectory(test_pattern_spawnprocess_editmem)
+#add_subdirectory(test_ui_nuklear)
+#add_subdirectory(test_ui_native)
+#add_subdirectory(test_ui_nativeskinned)
